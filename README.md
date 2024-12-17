@@ -20,3 +20,9 @@ Check-GGUF-Threats is a set of tools designed to analyze and identify potential 
 
    ```bash
    git clone https://github.com/MatDupas/Check-GGUF-Threats.git
+
+2. **usage **:
+   # in Bash
+````bash
+./check-gguf-threat.sh model.gguf
+
