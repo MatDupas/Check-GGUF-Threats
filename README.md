@@ -25,6 +25,7 @@ Check-GGUF-Threats is a set of tools designed to analyze and identify potential 
    In Bash
 ```bash
 chmod +x ./check-gguf-threat.sh; ./check-gguf-threat.sh model.gguf
+```
 
 In Powershell:
 ```bash
